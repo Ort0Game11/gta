@@ -1,0 +1,117 @@
+
+PREGUNTAS Y RESPUESTAS SOBRE NORMATIVAS LA SANTA RP
+
+1. ¿Cuánto es el tiempo de espera para pedir refuerzos?
+   Respuesta: Espera de 3 minutos para acudir refuerzos.
+
+2. Usos para el /me y /do:
+   Respuesta: /do para pensamientos y /me para acciones.
+
+3. ¿Cuáles de las siguientes son zonas seguras?
+   Respuesta:
+   - Ayuntamiento
+   - Negocios privados
+   - Garajes privados y garaje central
+   - Hospital
+   - Comisaría
+   - Concesionarios
+   - Lugar de bienvenida
+
+4. ¿Cuántas personas se permiten en un rol agresivo?
+   Respuesta: 14 en ciudad y 20 en el norte.
+
+5. ¿Qué debo hacer si voy en mi auto y me van a asaltar?
+   Respuesta: Valorar la vida, detenerte y bajar con las manos en alto.
+
+6. ¿Cuántos policías tienen que estar en servicio para asaltar a un jugador?
+   Respuesta: Mínimo 2 policías en servicio.
+
+7. ¿Está permitido el uso de Software Externos?
+   Respuesta: Sí, pero solo para grabar. Otros usos están prohibidos.
+
+8. ¿Cuándo paso por proceso de CK qué objetos puedo guardar para mi nuevo personaje?
+   Respuesta: Está totalmente prohibido recibir cualquier bien de tu personaje anterior al nuevo.
+
+9. ¿Cuánto tiempo debe esperar un policía para regresar a un rol agresivo?
+   Respuesta: 20 minutos.
+
+10. ¿Cuánto es lo máximo que puedo pedir por un civil secuestrado?
+    Respuesta: $700,000 máximo.
+
+11. ¿Puedo vender mis rubys?
+    Respuesta: Está estrictamente prohibido el comercio de rubys entre usuarios.
+
+12. ¿Cuándo está permitido el CL (Combat Logging)?
+    Respuesta: Nunca está permitido. Todas las opciones son incorrectas.
+
+13. ¿Cuántos Strikes ocupa una organización para ser desmantelada?
+    Respuesta: 10 Strikes.
+
+14. Requisitos para secuestrar un policía:
+    Respuesta: Mínimo 8 policías en servicio y máximo 4 asaltantes.
+
+15. ¿Cuántos Civiles puedo secuestrar por día?
+    Respuesta: Máximo 2.
+
+16. ¿En qué situaciones se permite el uso de casco?
+    Respuesta: Solo en operativos o eventos organizados por la administración.
+
+17. ¿Cuántos miembros puede tener una organización delictiva?
+    Respuesta:
+    - Carteles: 20
+    - Mafias: 15
+    - Bandas: 10
+    - Civiles: 4
+
+18. ¿Cuántos policías se ocupan para vender drogas?
+    Respuesta: Mínimo 1 policía.
+
+19. Seleccione las armas permitidas en alerta Amarilla:
+    Respuesta:
+    - 9mm
+    - Pistola .50
+    - AP Pistol
+    - SMG
+    - Escopeta
+    - MicroSMG
+    - MiniSMG
+    - Revolver
+    - Subfusil Thompson
+
+20. ¿Cuántas veces debe ser capturado un jefe de cartel, mafia o banda para entrar en Búsqueda y Captura?
+    Respuesta: 5 veces por delitos graves.
+
+21. Es todo lo qué ocurre fuera de nuestro personaje, es decir, FUERA DE ROL:
+    Respuesta: OOC.
+
+22. ¿Cuánto es el valor de la multa por hacer caso omiso al quitarse la máscara a los 3 avisos?
+    Respuesta: $60,000.
+
+23. ¿Cuántas veces debe ser capturado un civil para entrar en Búsqueda y Captura?
+    Respuesta: 6 veces por delitos graves.
+
+24. Sucede cuando das cualquier tipo de información estando muerto:
+    Respuesta: Ghosting.
+
+25. ¿Cuáles son los requisitos para hacer Robos Medianos?
+    Respuesta:
+    - Alerta 3
+    - Mínimo 6 policías y máximo 8
+    - Máximo 5 asaltantes
+    - EMS mínimo 2
+    - Armamento: Pistolas cortas y SMG
+
+26. ¿Cuándo se permiten las alianzas entre organizaciones delictivas?
+    Respuesta: Solo en eventos o roles pactados.
+
+27. ¿Qué armamentos se pueden usar en zonas rojas?
+    Respuesta: Desde grado 1 hasta grado 3.
+
+28. ¿Qué armas puedo usar dentro de la base o sede de la organización?
+    Respuesta: Cualquier tipo de arma.
+
+29. ¿Cuánto tiempo de diferencia debe existir entre un anon y otro?
+    Respuesta: 5 segundos.
+
+30. Es todo aquello que nos rodea y debemos simular que existe:
+    Respuesta: RDE (Rol de Entorno).
